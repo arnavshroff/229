@@ -16,7 +16,6 @@ def find_hash(original_hash):
 
     final_words = []
 
-    #Student Activity
     for i in word_file:
         flag = False
         temp_word = i.replace('\n', '')
